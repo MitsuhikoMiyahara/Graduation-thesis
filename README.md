@@ -1,1 +1,1 @@
-# Graduation-thesis
+# GraduationThesis
