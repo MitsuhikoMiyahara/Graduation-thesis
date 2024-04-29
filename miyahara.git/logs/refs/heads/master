@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 e8453500ec635dca6ead737a4ca6bf5ed63e86af Miyahara Mitsuhiko <miyahara@deep.hi.is.i.nagoya-u.ac.jp> 1701670944 +0900	commit (initial): 2023-12-04
+e8453500ec635dca6ead737a4ca6bf5ed63e86af 01ba3c6287a189061569b40f322f9343e745e872 Miyahara Mitsuhiko <miyahara@deep.hi.is.i.nagoya-u.ac.jp> 1701671046 +0900	commit: add coco-annotator
+01ba3c6287a189061569b40f322f9343e745e872 a292a25de380fb751b086380df5294e2d50acbbf Miyahara Mitsuhiko <miyahara@deep.hi.is.i.nagoya-u.ac.jp> 1701673155 +0900	commit: add detetcron2, yolov5, edge
